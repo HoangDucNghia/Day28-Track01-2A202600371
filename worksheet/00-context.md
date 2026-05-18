@@ -23,15 +23,15 @@ Việc của nhóm hôm nay đúng là việc một PM/PO AI làm ngoài doanh n
 
 ## 2. Track của nhóm (điền sau khi nhận track card)
 
-- **Track số / tên**: 4 - Bộ nhớ học tập / Knowledge Graph
+- **Track số / tên**: Track 4 — Bộ nhớ học tập / Knowledge Graph
 - **Big Ask — chép nguyên văn câu yêu cầu trong track card**:
 
 ```text
-Xây bộ nhớ học tập xuyên suốt khóa — concept, framework, case, slide, lab, các ngày trước được liên kết để học viên tra cứu và thấy mối liên hệ
+Xây bộ nhớ học tập xuyên suốt khóa — concept, framework, case, slide, lab, các ngày trước được liên kết để học viên tra cứu và thấy mối liên hệ.
 ```
 
 - **Công cụ lớn này phục vụ ai** (học viên / coach / instructor / admin): Học viên, coach, instructor
-- **2 Red Flag đáng lo nhất (chép từ track card)**: 1.  Knowledge graph quá to, không ai bảo trì  2. sai nguồn/citation
+- **2 Red Flag đáng lo nhất (chép từ track card)**: 1. Knowledge graph quá to, không ai bảo trì — liên kết nhiều nhưng không giúp hành động  2. Sai nguồn/citation — bộ nhớ cá nhân chạm quyền riêng tư
 
 ---
 
@@ -49,9 +49,13 @@ Xây bộ nhớ học tập xuyên suốt khóa — concept, framework, case, sl
 
 ## 4. Ghi chú thêm (tùy nhóm)
 
-- Data là tất cả thông tin trong slide, bài tập lab, handbook, references của khóa học AI thực chiến của VinUni
-- Data đang nằm rải rác, cần thu thập về 1 nguồn đã qua kiểm chứng
-- Module tầm nhìn lớn: Bản đồ concept giữa các ngày · tìm theo câu hỏi ("D28 dùng lại gì từ D2?") · liên kết framework → case → template lab · bộ nhớ học tập cá nhân (đã gặp lỗi gì) · bộ nhớ cho coach (nhóm này đã được feedback gì) · truy hồi câu trả lời có nguồn.
+- **Hạn chót nộp bài**: 23:59 hôm nay (Day 28).
+- **Quy mô data giả định**: Slide, instructor notes, framework, case bank, gói lab, FAQ từ ~28 ngày học (D1–D28). Dùng data mẫu/giả định trong lab, không dùng data thật của học viên.
+- **Hiện trạng**: Kiến thức nằm rải rác: slide, Discord, LMS, instructor notes, lab, case bank. Học viên hay quên D2/D27 khi sang D28.
+- **Module tầm nhìn lớn (chép từ track card)**: Bản đồ concept giữa các ngày · tìm theo câu hỏi ("D28 dùng lại gì từ D2?") · liên kết framework → case → template lab · bộ nhớ học tập cá nhân (đã gặp lỗi gì) · bộ nhớ cho coach (nhóm này đã được feedback gì) · truy hồi câu trả lời có nguồn.
+- **Quick Win gợi ý (chép từ track card)**: Bot trả lời "concept X nằm ở đâu trong khóa?" có nguồn · map D2 Design Thinking → D27 Economics → D28 AI Pilot Plan · tạo knowledge card cho 10 concept quan trọng của D28.
+- **Ví dụ câu hỏi thật học viên có thể hỏi**: "Double Diamond là gì và được dùng ở ngày nào?", "D28 dùng lại framework gì từ D26 và D27?", "Baseline là gì, được dạy ở bài nào?"
+
 ---
 
 ## Cách dùng

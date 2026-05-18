@@ -90,10 +90,10 @@ Học viên đang bước vào giai đoạn làm AI Pilot Plan sau Day 28 — đ
 
 | Hạng mục | Xong? |
 |---|---|
-| Cả nhóm phát biểu lại Big Ask giống nhau, không cần nhìn card | ✓ |
-| Có 5–8 use case dạng "AI làm X cho ai để Y" | ✓ |
-| Có ≥4 use case thật sự độc lập | ✓ |
-| Nhóm KHÔNG còn ý định pitch "build cả platform" | ✓ |
+| Cả nhóm phát biểu lại Big Ask giống nhau, không cần nhìn card | ✅ |
+| Có 5–8 use case dạng "AI làm X cho ai để Y" | ✅ (8 use case) |
+| Có ≥4 use case thật sự độc lập | ✅ (6 độc lập: #1, #2, #3, #4, #7, #8) |
+| Nhóm KHÔNG còn ý định pitch "build cả platform" | ✅ |
 
 Sau bước này, mở `2-quick-win.md` — chấm điểm chọn 1 lát cắt làm trước.
 

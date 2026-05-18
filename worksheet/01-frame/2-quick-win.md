@@ -35,14 +35,16 @@ Câu hỏi phụ (tự trả lời):
 - "Risk" ở đây là *sai thì mất gì* — chọn đúng việc chính của user (task centrality) thì sai cũng đỡ đau; chọn việc lớn nhất thì sai rất đắt. Use case nào risk thấp thật?
 - Use case nào có sẵn data + có người trong AI20k thật sự muốn dùng?
 
-| Use case | Impact | Feasibility | Evidence nhanh | Risk (cao = an toàn) | Tổng |
-|---|:--:|:--:|:--:|:--:|:--:|
-| AI trả lời “concept/framework X nằm ở đâu trong khóa?” kèm source từ slide/lab | 5 | 5 | 5 | 5 | 5.0 |
-| AI map framework → case → template lab để học viên biết dùng framework nào | 4 | 4 | 4 | 4 | 4.0 |
-| AI liên kết concept giữa nhiều ngày học (D2 → D27 → D28) | 4 | 3 | 3 | 4 | 3.5 |
-| AI tạo knowledge card cho concept quan trọng | 3 | 5 | 4 | 5 | 4.2 |
-| AI lưu lỗi và feedback cá nhân của học viên | 4 | 2 | 2 | 2 | 2.6 |
-| AI cho coach xem feedback lịch sử của từng nhóm | 4 | 2 | 2 | 2 | 2.6 |
+| Use case | Impact (×.30) | Feasibility (×.25) | Evidence (×.25) | Risk (×.20) | Tổng | Hạng |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| #1 — AI trả lời “concept/framework X nằm ở đâu?” kèm source | 5 | 5 | 5 | 5 | **5.00** | 1 |
+| #4 — AI tạo knowledge card cho concept quan trọng | 3 | 5 | 4 | 5 | **4.15** | 2 |
+| #8 — AI map framework → case → template lab | 4 | 4 | 4 | 4 | **4.00** | 3 |
+| #2 — AI liên kết concept giữa nhiều ngày học (D2→D27→D28) | 4 | 3 | 3 | 4 | **3.75** | 4 |
+| #5 — AI lưu lỗi và feedback cá nhân của học viên | 4 | 2 | 2 | 2 | **2.60** | 5 |
+| #6 — AI cho coach xem feedback lịch sử của từng nhóm | 4 | 2 | 2 | 2 | **2.60** | 5 |
+
+> **Công thức**: Tổng = Impact×0.30 + Feasibility×0.25 + Evidence×0.25 + Risk×0.20
 
 (Thang điểm chi tiết: `templates/quick-win-scoring.md`.)
 
@@ -97,12 +99,12 @@ Nghe hay nhưng có nguy cơ trở thành “flashcard generator” ít dùng th
 
 ## Tổng kiểm tra trước khi sang `3-FINAL-problem-framing.md`
 
-| Hạng mục   | Xong? |
-| ---------- | ----- |
-| Có bảng chấm 4 trục cho ≥4 use case    | ✓  |
-| Chốt 1 Quick Win, lý do bám số/impact (không "nghe hay") | ✓   |
-| Nêu rõ ai ủng hộ pilot này     | ✓   |
-| Ghi rõ ≥2 phần KHÔNG chọn + lý do     | ✓   |
+| Hạng mục | Xong? |
+|---|---|
+| Có bảng chấm 4 trục cho ≥4 use case | ✅ (6 use case, có trọng số) |
+| Chốt 1 Quick Win, lý do bám số/impact (không "nghe hay") | ✅ |
+| Nêu rõ ai ủng hộ pilot này | ✅ (Coach, Học viên, Instructor) |
+| Ghi rõ ≥2 phần KHÔNG chọn + lý do | ✅ (3 use case bị loại kèm lý do) |
 
 
 ⚑ Đây là phần coach kiểm tra ở Mốc 1: *"Vì sao không làm full tool? Vì sao chọn lát cắt này trước?"*

@@ -103,15 +103,13 @@ Người review/expert:
 
 7. **Quick Win đã chọn** (1 dòng, lấy từ file `2`): AI trả lời “concept/framework X nằm ở đâu trong khóa?” kèm citation từ slide/lab/handbook.
 
-8. **Open questions** (còn chưa biết gì — không được để trống): - Pilot sẽ giới hạn trong D28 hay nhiều ngày học?
-- Citation nên hiển thị ở mức slide/page hay chỉ tên tài liệu?
-- Nếu AI retrieval sai hoặc không chắc chắn thì UX nên xử lý thế nào?
-- Success metric chính là:
-  + giảm thời gian tìm tài liệu?
-  + tăng accuracy retrieval?
-  + giảm số câu hỏi lặp cho coach?
-- Có cần index Discord hay chỉ dùng tài liệu chính thức?
-- Instructor có sẵn sàng review citation trong pilot đầu không?
+8. **Open questions** (còn chưa biết gì — không được để trống):
+   - Pilot sẽ giới hạn trong D28 hay nhiều ngày học?
+   - Citation nên hiển thị ở mức slide/page hay chỉ tên tài liệu?
+   - Nếu AI retrieval sai hoặc không chắc chắn thì UX nên xử lý thế nào?
+   - Success metric chính là: giảm thời gian tìm tài liệu? Tăng accuracy retrieval? Giảm số câu hỏi lặp cho coach?
+   - Có cần index Discord hay chỉ dùng tài liệu chính thức?
+   - Instructor có sẵn sàng review citation trong pilot đầu không?
 
 9. **Validation** (đóng vai owner: *"đúng, đây là vấn đề đáng giải"* — Có / Chưa, vì sao):
 
@@ -124,29 +122,24 @@ Có.
 
 ## Tự phản biện
 
-- Khung này còn câu chung chung kiểu "cần học tốt hơn" không?
--> Nhóm đã cố tránh mô tả mơ hồ và chuyển sang pain cụ thể:
-“mất thời gian tìm lại tài liệu/framework” và “coach trả lời lặp lại”.
+- **Khung này còn câu chung chung kiểu "cần học tốt hơn" không?**
+  → Nhóm đã cố tránh mô tả mơ hồ và chuyển sang pain cụ thể: “mất thời gian tìm lại tài liệu/framework” và “coach trả lời lặp lại”.
 
-- 3 câu sẽ bị hỏi: *số/giả định lấy ở đâu · giả định chính sai thì sao · tình huống nào khiến dừng.* Trả lời thử 1 câu.
--> Giả định chính:
-Có đủ số lượng câu hỏi lặp liên quan retrieval để pain đáng giải.
-Nếu giả định sai:
-- Học viên thực ra không gặp pain lớn
-- Hoặc họ đã tự giải quyết được bằng search hiện tại
-
-→ Khi đó pilot nên dừng hoặc pivot sang use case khác (ví dụ concept mapping hoặc knowledge card).
+- **3 câu sẽ bị hỏi**: *số/giả định lấy ở đâu · giả định chính sai thì sao · tình huống nào khiến dừng.* Trả lời thử 1 câu:
+  - **Giả định chính**: Có đủ số lượng câu hỏi lặp liên quan retrieval để pain đáng giải.
+  - **Nếu giả định sai**: Học viên thực ra không gặp pain lớn, hoặc họ đã tự giải quyết được bằng search hiện tại.
+  - **Plan B**: Pilot nên dừng hoặc pivot sang use case khác (ví dụ concept mapping hoặc knowledge card).
 
 ---
 
 ## Tổng kiểm tra trước khi sang `02-solution/`
 
-| Hạng mục   | Xong? |
-| ---------- | ----- |
-| Chỉ rõ 1 nhóm người + 1 khoảnh khắc cụ thể (không "user nói chung") | ✓   |
-| Pain có số (hoặc kế hoạch lấy số), nói rõ số từ đâu   | ✓   |
-| Có baseline (hoặc cách đo baseline) + ≥1 chỉ số có ngưỡng   | ✓  |
-| Mục 9: owner (giả định) xác nhận đúng vấn đề = qua cổng phase Frame | ✓  |
+| Hạng mục | Xong? |
+|---|---|
+| Chỉ rõ 1 nhóm người + 1 khoảnh khắc cụ thể (không "user nói chung") | ✅ |
+| Pain có số (hoặc kế hoạch lấy số), nói rõ số từ đâu | ✅ |
+| Có baseline (hoặc cách đo baseline) + ≥1 chỉ số có ngưỡng | ✅ |
+| Mục 9: owner (giả định) xác nhận đúng vấn đề = qua cổng phase Frame | ✅ |
 
 
 ⚑ Coach kiểm tra ở Mốc 2: *"Ai đau? Baseline là gì? Không có baseline thì đo thế nào?"*
