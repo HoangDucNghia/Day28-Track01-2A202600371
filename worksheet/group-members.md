@@ -6,7 +6,7 @@ format: Nhóm 3
 
 # Group members
 
-- **Tên nhóm / mã nhóm**: 2A202600371
+- **Tên nhóm / mã nhóm**: G-2A202600371
 - **Track được giao**: Track 4 — Bộ nhớ học tập / Knowledge Graph
 - **Repo GitHub (public)**: Day28-Track01-2A202600371
 
